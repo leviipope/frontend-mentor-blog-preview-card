@@ -49,13 +49,13 @@ body{
     font-weight: 500;
     font-size: 15px;
 }
-a{
+.title{
     text-decoration: none;
     color: black;
     font-weight: 800;
 }
-a:hover{
-    color: hsl(47, 88%, 63%);
+a.title:hover{
+    color: hsl(47, 88%, 63%) !important;
 }
 #text{
     color: hsl(0, 0%, 42%);
