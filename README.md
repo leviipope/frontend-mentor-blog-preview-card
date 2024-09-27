@@ -8,7 +8,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-- Website - (https://leviipope.github.io/cv-website/)
+- Solution URL: [You are here](https://github.com/leviipope/frontend-mentor-blog-preview-card)
+- Live Site URL: https://leviipope.github.io/frontend-mentor-blog-preview-card/
+- Personal Website - https://leviipope.github.io/cv-website/
 - Frontend Mentor - [@leviipope](https://www.frontendmentor.io/profile/leviipope)
